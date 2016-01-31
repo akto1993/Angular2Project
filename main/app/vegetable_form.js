@@ -34,7 +34,7 @@ System.register(['angular2/core'], function(exports_1) {
                 VegetableForm = __decorate([
                     core_1.Component({
                         selector: 'vegetable-form',
-                        template: "\n    <form (ngSubmit)=\"addVegetable()\">\n      <input type=\"text\" [(ngModel)]=\"supply\" size=\"30\"\n             placeholder=\"Wpisz tu tytu\u0142 dostawy\">\n      <input class=\"btn-primary\" type=\"submit\" value=\"Dodaj\">\n    </form>"
+                        template: "\n    <form (ngSubmit)=\"addVegetable()\">\n      <input type=\"text\" [(ngModel)]=\"supply\" size=\"30\"\n             placeholder=\"Wpisz tu tytu\u0142 dostawy\">\n      <input class=\"btn-primary\" type=\"submit\" value=\"Dodaj\">\n    </form>\n    "
                     }), 
                     __metadata('design:paramtypes', [])
                 ], VegetableForm);

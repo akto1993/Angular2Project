@@ -21,74 +21,100 @@
     <favorites_list name="angdemo" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/main.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vegetable_app.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/vegetable_app.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.5517242">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vegetable.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/vegetable.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-              <folding>
-                <element signature="n#!!doc;n#Vegetable#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vegetable_form.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/vegetable_form.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24878049">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1454253327799" expanded="true" signature="242:423" placeholder="..." />
-                <marker date="1454253327799" expanded="true" signature="299:349" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vegetable_list.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/vegetable_list.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1454250112126" expanded="true" signature="320:520" placeholder="..." />
-                <marker date="1454250112126" expanded="true" signature="365:510" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.61917096">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/main.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="2" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="24" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="vegetable_app.ts" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/vegetable_app.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.7015873">
+                  <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+                  <folding>
+                    <marker date="1454271031875" expanded="true" signature="737:1728" placeholder="..." />
+                    <marker date="1454271031875" expanded="true" signature="833:1718" placeholder="..." />
+                    <marker date="1454271031875" expanded="true" signature="834:1718" placeholder="..." />
+                    <marker date="1454271031875" expanded="true" signature="1228:1448" placeholder="..." />
+                    <marker date="1454271031875" expanded="true" signature="1307:1360" placeholder="..." />
+                    <marker date="1454271031875" expanded="true" signature="1462:1704" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="vegetable_form.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/vegetable_form.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-7.62069">
+                  <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                    <marker date="1454270933928" expanded="true" signature="242:423" placeholder="..." />
+                    <marker date="1454270933928" expanded="true" signature="299:349" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="vegetable.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/vegetable.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+                  <folding>
+                    <element signature="n#!!doc;n#Vegetable#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="vegetable.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/vegetable.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+                  <folding>
+                    <element signature="n#!!doc;n#Vegetable#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="vegetable_detail.ts" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/vegetable_detail.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.4643399">
+                  <caret line="20" column="68" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="68" />
+                  <folding>
+                    <marker date="1454266876864" expanded="true" signature="346:589" placeholder="..." />
+                    <marker date="1454266876864" expanded="true" signature="463:578" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="CSS File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -121,9 +147,12 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app/main.ts" />
         <option value="$PROJECT_DIR$/app/vegetable.ts" />
+        <option value="$PROJECT_DIR$/app/vegetable_edit.ts" />
         <option value="$PROJECT_DIR$/app/vegetable_list.ts" />
-        <option value="$PROJECT_DIR$/app/vegetable_app.ts" />
+        <option value="$PROJECT_DIR$/app/vegetable-detail.ts" />
+        <option value="$PROJECT_DIR$/app/vegetable_detail.ts" />
         <option value="$PROJECT_DIR$/app/vegetable_form.ts" />
+        <option value="$PROJECT_DIR$/app/vegetable_app.ts" />
       </list>
     </option>
   </component>
@@ -710,12 +739,12 @@
       <updated>1450768442484</updated>
       <workItem from="1454155735172" duration="676000" />
       <workItem from="1454157023397" duration="4655000" />
-      <workItem from="1454241031123" duration="10686000" />
+      <workItem from="1454241031123" duration="24027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16017000" />
+    <option name="totallyTimeSpent" value="29358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -728,7 +757,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27193934" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25568798" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17697228" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -786,23 +815,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/vegetable_detail.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4643399">
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="68" />
+          <folding>
+            <marker date="1454266876864" expanded="true" signature="346:589" placeholder="..." />
+            <marker date="1454266876864" expanded="true" signature="463:578" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/main.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="24" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/vegetable_list.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1454250112126" expanded="true" signature="320:520" placeholder="..." />
-            <marker date="1454250112126" expanded="true" signature="365:510" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -816,22 +844,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/vegetable_app.ts">
+    <entry file="file://$PROJECT_DIR$/app/vegetable_form.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.5517242">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding />
+        <state vertical-scroll-proportion="-7.62069">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1454270933928" expanded="true" signature="242:423" placeholder="..." />
+            <marker date="1454270933928" expanded="true" signature="299:349" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/vegetable_form.ts">
+    <entry file="file://$PROJECT_DIR$/app/vegetable_app.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24878049">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.7015873">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1454253327799" expanded="true" signature="242:423" placeholder="..." />
-            <marker date="1454253327799" expanded="true" signature="299:349" placeholder="..." />
+            <marker date="1454271031875" expanded="true" signature="737:1728" placeholder="..." />
+            <marker date="1454271031875" expanded="true" signature="833:1718" placeholder="..." />
+            <marker date="1454271031875" expanded="true" signature="834:1718" placeholder="..." />
+            <marker date="1454271031875" expanded="true" signature="1228:1448" placeholder="..." />
+            <marker date="1454271031875" expanded="true" signature="1307:1360" placeholder="..." />
+            <marker date="1454271031875" expanded="true" signature="1462:1704" placeholder="..." />
           </folding>
         </state>
       </provider>

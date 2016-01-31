@@ -32,7 +32,7 @@ System.register(['angular2/core'], function(exports_1) {
                           color: grey;
                         }`
                         ],*/
-                        template: "\n    <ul class=\"unstyled\">\n      <li *ngFor=\"#vegetable of vegetables\">\n        <input type=\"checkbox\" [(ngModel)]=\"vegetable.done\">\n        <span class=\"done-{{vegetable.done}}\">{{vegetable.text}}</span>\n      </li>\n    </ul>"
+                        template: "\n    <ul class=\"unstyled\">\n      <li *ngFor=\"#vegetable of vegetables\"\n      [class.selected]=\"hero === selectedHero\"\n      (click)=\"onSelect(hero)\">\n        <input type=\"checkbox\" [(ngModel)]=\"vegetable.done\">\n        <span class=\"done-{{vegetable.done}}\">{{vegetable.text}}</span>\n      </li>\n    </ul>"
                     }), 
                     __metadata('design:paramtypes', [])
                 ], VegetableList);

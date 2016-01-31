@@ -10,7 +10,8 @@ import {Vegetable} from './vegetable';
       <input type="text" [(ngModel)]="supply" size="30"
              placeholder="Wpisz tu tytuł dostawy">
       <input class="btn-primary" type="submit" value="Dodaj">
-    </form>`
+    </form>
+    `
 })
 export class VegetableForm {
     @Output() newSupply = new EventEmitter<Vegetable>();
