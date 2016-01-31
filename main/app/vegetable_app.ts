@@ -4,7 +4,7 @@
 import {Component} from 'angular2/core';
 import {Vegetable} from './vegetable';
 import {VegetableForm} from './vegetable_form';
-import {VegetableDetail} from './vegetable_detail';
+
 
 @Component({
     selector: 'todo-app',
@@ -26,20 +26,15 @@ import {VegetableDetail} from './vegetable_detail';
                 placeholder="Wpisz tu tytuł dostawy">
             <input class="btn-primary" type="submit" value="Zatwierdź">
         </form>
-        <!--
-        <input *ngIf="vegetable === selectedVegetable" type="text" [(ngModel)]="selectedVegetable.text" placeholder="Zadanie"/>
-        <a *ngIf="vegetable === selectedVegetable" (click)="selectedVegetable = null">Zakończ edycje</a>
-        -->
       </li>
     </ul>
-    <!--<vegetable-detail [vegetable]="selectedVegetable"></vegetable-detail>-->
     `,
     styles:[`
     .done-true {
       text-decoration: line-through;
       color: grey;
     `],
-    directives: [VegetableForm,VegetableDetail]
+    directives: [VegetableForm]
 })
 export class VegetableApp {
     public selectedVegetable: Vegetable;
